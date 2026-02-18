@@ -1,0 +1,24 @@
+Model Pair Argument Essay:  
+“Achieving Dreams”
+
+W.7.1
+
+(Example for Teacher Reference)
+
+The writers and artists of the Harlem Renaissance had many messages to convey, but one of the most important was about how collaboration and community can bring out the best in people. Many of the works of the Harlem Renaissance showed the importance of community and collaboration. Of the works we’ve studied so far, however, the poem “Lift Every Voice and Sing,” the artwork *The Harp*, and the story “The Boy and the Bayonet” most clearly demonstrate the theme of how collaboration and community bring out the best in people.
+
+The poem “Lift Every Voice and Sing” by James Weldon Johnson clearly shows how collaboration and community can help bring out the best in people. The poem uses “our” and “we” to show people speaking together. “Let our rejoicing rise,” he writes (4). “Let us march on till victory is won” (9). This helps to show the power of sticking together through difficult times. Whatever the speakers face, they face together. The author also uses figurative language to talk about collaboration bringing out the best in people as they face difficulties. The speakers of the poem may pass through a “way that with tears has been watered” (16). Yet they also talk about how they stand in “the white gleam of our star” (19). These images show how the speakers have gone through difficult times, but are now in a better place. Taken together, these lines show that community and collaboration are essential to help people overcome obstacles and bring out the best in each other.
+
+In her sculpture *The Harp*, Augusta Savage develops the same theme of the importance of community and collaboration to bring out the best in people. In this sculpture, Savage shows people as being as connected as the strings on a harp. Like Johnson’s poem, on which the sculpture is based, this artwork shows the power of people working together. The people in the harp are singing together. Also, at the edge of the harp, a young man holds a piece of music. This seems to suggest that music is made in collaboration. Since music is important to many people, this is a strong statement. The sculpture powerfully shows how collaboration and community can “make music” and bring out the best in people.
+
+Just like Johnson and Savage, Paul Laurence Dunbar clearly develops the theme of the importance of collaboration and community to bring out the best in people in “The Boy and the Bayonet.” This story is about a boy who makes a mistake, but still triumphs because of how he handles himself. The author develops the characters in Bud’s family to show how his mother Hannah and his “little sister” view Bud’s success as their own. The author describes how they “were all cheerful” as Bud prepared for his drills. And when he makes a mistake, no one is more upset than the two of them. It may seem that all is lost, but the officer at Bud’s school reminds the students of the true meaning of discipline and teamwork. If Bud had stopped and tried to fix his mistake, the team would have been “thrown into confusion.” Instead, Bud did what was right for his team. The officer reminds everyone how Bud put his community first, and this brought out the best in him. No wonder his schoolmates cheer and his family encourages him when he says he will wear his uniform again. The ending of the story strongly shows the theme of how collaboration and community can bring out the best in people.
+
+Johnson, Savage, and Dunbar all powerfully develop the theme that community and collaboration can bring out the best in people. The theme is presented differently in each piece, but it shines through strongly in all three works. Johnson recounts the long difficult journey of a people and their celebration at arriving at their goal together. Savage shows how people can work together just like the parts of an instrument to create music together. Finally, Dunbar shows that even when someone makes a mistake, the community can support him. A curated collection of works in a museum centers on a common theme, and these three works powerfully celebrate how collaboration and community can bring out the best in people. Sometimes when people are struggling the most, they want to hide or move away from their community. However, these works show that by relying on others, we can find our best selves.
+
+Sources:
+
+Dunbar, Paul Laurence. “The Boy and the Bayonet.” *The Upward Path*. Ed. Myron T. Pritchard and Mary White Covington. Harcourt, Brace, and Howe, 1920. *Project Gutenberg*. Web.
+
+Johnson, James Weldon. “National Hymn \[Lift Every Voice and Sing\].” 1900. James Weldon Johnson and Grace Nail Johnson Papers, Yale Collection of American Literature, *Beinecke Rare Book and Manuscript Library*. Web.
+
+Savage, Augusta. *The Harp*. Sculpture. 1935–1945. *The New York Public Library Digital Collections*. Web.

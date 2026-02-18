@@ -1,0 +1,59 @@
+Model Argument Essay: “How *Farewell to Manzanar* Conveys Jeanne’s Youth”
+
+W.8.1
+
+(Example for Teacher Reference)
+
+**Focus Question:** One significant idea in the text *Farewell to Manzanar* is that Jeanne’s youth impacts her understanding of events in the text. How effectively does the film *Farewell to Manzanar* convey this significant idea?
+
+W.8.1c, L.8.6: Uses words, phrases, and clauses to create cohesion and clarify relationships among claim(s), counterclaims, reasons, and evidence.
+
+RL.8.7: Accurately identifies and clearly and concisely explains a significant idea in the text.
+
+W.8.1a: The claim is introduced.
+
+W.8.1a: The first point/reason and its evidence are organized logically.
+
+R.8.1, RL.8.7, W.8.1b, W.8.9b: Demonstrates a clear understanding of the topic and texts by developing a valid claim with logical reasoning and well-chosen key events, supporting details, and quotations (where appropriate) from both the text and film.
+
+*Farewell to Manzanar* tells the story of the Wakatsukis, one of many Japanese American families forced to live in an internment camp during World War II. Their story is told through the eyes of Jeanne Wakatsuki, the youngest of the family. Jeanne is sensitive and observant, but because she is so young, she sometimes has a naive, or simple and incomplete, understanding of what is happening around her. One significant idea in *Farewell to Manzanar* is that Jeanne’s youth impacts her understanding of events in the text. Descriptions of Jeanne help the reader understand how Jeanne’s youthful naivete keeps her from understanding what was happening around her at Manzanar. By looking at key moments of the text and the film, we can see that the film Farewell to Manzanar effectively conveys this significant idea of Jeanne’s youth impacting her understanding of events.
+
+In one important early moment from the text, Jeanne and her family are on the bus to Manzanar. The text describes her as “full of excitement, the way any kid would be” (16). She tries to befriend the bus driver and eagerly wants to look out the window. Feeling excited on the way to an internment camp illustrates how Jeanne’s naivete impacts her understanding of what awaits her and her family. Clearly, Manzanar is nothing like the camp Jeanne is anticipating. The filmmakers choose several techniques to capture this significant idea. They introduce a new character, another young girl on the bus. The two girls have a conversation about what to expect at Manzanar. The actor portraying Jeanne speaks quickly and excitedly as she describes the “camp” that her Caucasian friends attended in the past. Those friends had told her that camp, with all its swimming and hiking and sleeping outside, was “really fun.” The filmmakers’ choices in this moment convey how Jeanne’s youth impacts her understanding of Manzanar. Through its dramatic touches regarding characters, voice, and dialogue, the film remains faithful to the ideas in the text. Jeanne’s youth and naivete are clear. She is on the way to an internment camp, but does not fully understand what this means for her and her family.
+
+In another important moment from the text, Jeanne tries to make sense of the word *inu.* Jeanne and Mama hear two women call Papa an *inu*, which means “dog” in Japanese. At the time, Jeanne thinks the women who said this are just speaking badly about Papa “because he never socialized” (60). Years later, Jeanne would learn that “*inu* also meant collaborator or informer” (61)—in other words, a traitor. This distinction between Jeanne’s early and later knowledge of this word emphasizes all that Jeanne does not know while she is a child living at Manzanar. In this moment in the film, the filmmakers use dialogue to convey Jeanne’s naivete and confusion. In a departure from the text, Jeanne asks Mama what an *inu* is, and Mama answers in the moment. She says that “here, it means worse \[than ‘dog’\]: someone who helps the enemy.” The camera shows Jeanne looking up, clearly trying to make sense of what she is told. She asks, “Who is the enemy?” Mama is not able to provide an exact answer, suggesting that the answer to this question is more complicated than young Jeanne can comprehend. In this film scene, Jeanne’s questions signal to the viewer that Jeanne does not fully understand what makes an *inu* or why Papa is being accused of disloyalty. Mama’s response shows that she is not able to give Jeanne a simple answer to her naive question. By using this dialogue, the filmmakers remain faithful to the significant idea of the text that Jeanne’s youth keeps her from understanding these complicated concepts.
+
+RL.8.7: Accurately evaluates effectiveness of director’s choices and techniques in staying faithful to and/or departing from the text to convey the significant idea.
+
+W.8.1c, L.8.6: Uses words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.
+
+W.8.1a: The second point/reason and its evidence are organized logically.
+
+R.8.1, RL.8.7, W.8.1b, W.8.9b: Demonstrates clear understanding of topic and texts by developing valid claim with logical reasoning and well-chosen key events, supporting details, and quotations from both text and film.
+
+RL.8.7: Accurately evaluates the effectiveness of director’s choices and techniques in staying faithful to and/or departing from the text to convey the significant idea.
+
+W.8.1c, L.8.6: Uses words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.
+
+Some might argue that the film does not effectively convey Jeanne’s youthful naivete and its impact on her understanding of events. Sometimes, the film presents scenes that depart from the text. For example, in the text, after Papa is arrested for being a traitor, Mama starts weeping uncontrollably. Jeanne starts “clinging” to her mother’s legs, “wondering why everyone was crying” (8). Jeanne’s reaction helps illustrate the significant idea that Jeanne’s youth keeps her from fully understanding what is happening to the family. In contrast, Mama cries in the film, but not uncontrollably, and Jeanne does not cling to her legs or express bewilderment at what is happening. In fact, Jeanne is not in the scene at all. It is true that the film departs from the text. However, even though this is a departure from the text, the filmmakers’ choices are effective because they show that Jeanne does not always know about the issues the family is facing. Through this film scene, the viewer can better understand that Jeanne was too young to be included in some situations and conversations about adult issues like Papa’s arrest. The filmmakers’ choices might be somewhat different from the authors’, but they honor the same significant idea of Jeanne’s youthfulness affecting how much she knows about what was happening around her.
+
+W.8.1a: A counterclaim is introduced and distinguished from the claims of the essay.
+
+R.8.1, RL.8.7, W.8.1b, W.8.9b: Demonstrates clear understanding of the topic and texts by developing a valid claim with logical reasoning and well-chosen key events, supporting details, and quotations from both text and film.
+
+RL.8.7: Accurately evaluates the effectiveness of the director’s choices and techniques in staying faithful to and/or departing from the text to convey the significant idea.
+
+W.8.1c, L.8.6: Uses words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.
+
+W.8.1e: Concluding statement or section follows from and supports the argument presented.
+
+L.8.2c: Demonstrates correct spelling.
+
+W.8.1d, W.8.4, L.8.6: Establishes and maintains a formal style appropriate to purpose and audience.
+
+All in all, the film effectively conveys the idea of Jeanne’s youth impacting her understanding of events. Through faithful depictions of key moments from the text, the film shows that Jeanne is young and naive and cannot always make sense of what is happening to her family. Though some film details depart from the text, they are still in line with this significant idea. By making choices to emphasize the significant idea of Jeanne’s naivete and its impact on her understanding of what is happening around her, the filmmakers have made sure the audience grasps the complicated and often bewildering experience of internment that is conveyed in the text.
+
+Sources:
+
+Houston, Jeanne Wakatsuki and James D. Houston. *Farewell to Manzana*r. Houghton Mifflin, 1973.
+
+Korty, John, director. *Farewell to Manzanar*. NBC TV/Japanese American National Museum, 1976.

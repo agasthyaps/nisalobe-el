@@ -1,0 +1,66 @@
+Homework: Unfamiliar Vocabulary  
+and Figurative Language:  
+*The Lightning Thief*, Chapter 5
+
+(Answers for Teacher Reference)
+
+**Directions:** Reread each passage from chapter 5 of *The Lightning Thief*. Using strategies for determining unfamiliar vocabulary, answer the question(s) below each passage.
+
+1.  **Part A**
+
+“\[Grover\] took the empty glass from me **gingerly**, as if it were dynamite, and set it back on the table.”
+
+Which word in this excerpt <u>best</u> helps in understanding the meaning of **gingerly**?
+
+2.  empty
+
+3.  glass
+
+4.  <u>dynamite</u>
+
+5.  table
+
+**Part B**
+
+Based on the context clues, which synonym best matches the meaning of **gingerly**?
+
+1.  <u>carefully</u>
+
+2.  angrily
+
+3.  dangerously
+
+4.  selfishly
+
+**Part C**
+
+Check the definition of the word **gingerly** in a dictionary. What other synonyms are offered to define the word? (Revise your answer to Part B if necessary.)
+
+cautiously, warily, delicately
+
+6.  **  
+    Part A**
+
+Authors often give human characteristics and behaviors to non-human objects. This technique is called personification. Which of the following sentences from chapter 5 demonstrates personification?
+
+7.  “The porch wrapped all the way around the farmhouse.”
+
+8.  <u>“ . . . the valley marched all the way up to the water . . .”</u>
+
+9.  “The landscape was dotted with buildings that looked like ancient Greek architecture. . .”
+
+10. “Canoes glided across a small lake.”
+
+**Part B**
+
+Explain how your response demonstrates personification.
+
+A valley cannot physically march. The ability to march is a human characteristic and one that cannot be done by geographic features.
+
+11. Percy describes Annabeth as having a “stereotypical” look. A stereotype is a widely held belief about a particular group of people. Underline the phrases in this excerpt that illustrate Percy’s stereotypical belief about girls from California.
+
+“She was probably my age, maybe a couple of inches taller, and a whole lot more athletic looking. With her deep tan and her curly blond hair, she was almost exactly what I thought a **stereotypical** California girl would look like, except her eyes ruined the image. They were startling gray, like storm clouds . . .”
+
+“She was probably my age, maybe a couple of inches taller, and a whole lot more <u>athletic looking</u>. With her <u>deep tan</u> and her <u>curly blond hair</u>, she was almost exactly what I thought a stereotypical California girl would look like, except her eyes ruined the image. They were startling gray, like storm clouds . . .”
+
+All quotations from: Riordan, Rick. *Percy Jackson and the Olympians: The Lightning Thief.* Disney Press, 2005. Chapter 5.

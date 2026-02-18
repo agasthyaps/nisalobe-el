@@ -1,0 +1,23 @@
+End of Unit 1 Assessment Recording Sheet
+
+(For Teacher Reference)
+
+End of Unit 1 Assessment: Collaborative Discussion: *Farewell to Manzanar*
+
+| Grade 8 Collaborative Discussion Checklist                                                                            |                                                                                              |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------|-----|-----|-----|-----|-----|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Discussion Topic: Module Guiding Question 1: *Farewell to Manzanar*                                                   |                                                                                              |                  |     |     |     |     |     | Date: |     |     |     |     |     |     |     |     |     |     |
+| *Students prepare for, and participate effectively in, conversations and collaborations on Grade 8 texts and topics.* |                                                                                              |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| Comprehension and Collaboration                                                                                       |                                                                                              |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| CCSS                                                                                                                  | Criteria                                                                                     | Student Initials |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| SL.8.1a                                                                                                               | I prepared for the discussion by reading and/or finding appropriate evidence in the text(s). |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| SL.8.1a                                                                                                               | I use the evidence I prepared to support my ideas during the discussion.                     |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| SL.8.1b                                                                                                               | I set specific goals for discussion.                                                         |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| Comprehension and Collaboration                                                                                       |                                                                                              |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| CCSS                                                                                                                  | Criteria                                                                                     | Student Initials |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| SL.8.1b                                                                                                               | I follow agreed-upon rules for the discussion.                                               |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+| SL.8.1b                                                                                                               | I carry out the role I have been given in a discussion.                                      |                  |     |     |     |     |     |       |     |     |     |     |     |     |     |     |     |     |
+
+Copy one checklist for each discussion group. Record your observations using the following key:
+
+1 = Beginning  2 = Developing  3 = Proficient  4 = Advanced

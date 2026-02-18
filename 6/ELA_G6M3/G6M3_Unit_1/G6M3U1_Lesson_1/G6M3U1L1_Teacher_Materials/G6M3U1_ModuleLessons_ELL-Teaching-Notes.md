@@ -1,0 +1,87 @@
+English Language Learners: Grade 6: Module 3: Unit 1: Teaching Notes
+
+Build Background Knowledge: Analyze Points of View toward American Indian Boarding Schools
+
+Teaching Notes for Unit 1
+
+Prioritize Lessons for Classrooms with Many English Language Learners
+
+To prepare for the mid-unit assessment, prioritize and expand instruction in Lesson 4, which guides students through a close read, supporting their understanding of point of view and connotation. The close read centers around a narrative by Zitkala-Sa, who is also the author of the narrative used during the mid-unit assessment; because Zitkala-Sa’s style is a rich and particular one, the added practice interpreting her language will be critical for ELLs. Also expand instruction in Lessons 5–6, during which students read excerpts of a primary-source text that helps build critical context to better understand the module topic. Lesson 6 also features a Chalk Talk that helps students integrate information from photos with information from a text—another key skill for the unit, which is addressed on the mid-unit assessment. To prepare for the end of unit assessment, prioritize instruction in Lessons 9 and 13, which feature Language Dives that tackle key assessment standards. Language Dives support reading abilities for students at all proficiency levels, but are particularly critical for ELLs, as these approaches accelerate language development through a close look at structure and vocabulary.
+
+Language Dives
+
+In Lessons 9 and 13, students participate in Language Dives that use sentences from their anchor text, *Two Roads*. In Lesson 9, students analyze the way in which a simile reveals information about a character’s point of view and helps develop the plot. In Lesson 13, students examine the personality and point of view of a character as represented through the character’s use of a particular language variety.
+
+In Module 3, Language Dive goals remain the same: to empower students to analyze, understand, and use the language of academic sentences, which often seems opaque to students. However, beginning in this unit, and continuing throughout Modules 3 and 4, the Language Dive Guide has been modified. The modified format follows the deconstruct-reconstruct-practice routine, which should seem familiar as a general process (see Language Dives on the Tools Page: http://eled.org/tools). Modules 3 and 4 go beyond the process of Modules 1 and 2 by providing options for questions and activities that continue to teach students how English works. Thus, this modified format attempts to encourage students to take more of the lead in the conversation and build greater independence by taking an inquiry based approach to language in general, and the selected sentence in particular. Although students should briefly discuss all chunks in each Language Dive sentence, the new format invites them to slow down during one chunk, called the focus structure, to investigate and practice a particularly compelling language structure. For more context, review the full Language Dive Guide in Lessons 3 and 4 of this unit, as well as a range of questions students might ask one another in Questions We Can Ask During a Language Dive anchor chart on the Tools Page: http://eled.org/tools.
+
+Most Language Dives implicitly address a wide range of Reading, Writing, Speaking and Listening, and Language standards. Once comfortable with Language Dives, supplement the focus standards in a particular Language Dive with additional standards to meet students’ needs. Note that the Rationale section of each Language Dive also identifies supporting standards that are explicitly addressed but are not the main focus of the Language Dive.
+
+Note that the Language Dive guides have been condensed in Module 3 as a way to reduce the amount of reading expected of teachers. Refer to the general best practices laid out in the Module 1 Language Dive guides.
+
+Language Chunk Wall
+
+Continue to develop a “Language Chunk Wall” to extend students’ capacity to use Language Dive structures. The Language Chunk Wall, first introduced in Module 2, is an area in the classroom where students can display and categorize the academic phrases discussed in each Language Dive. At the end of each Language Dive, students are invited to place the Language Dive sentence chunk strips on the Language Chunk Wall into corresponding categories, such as “Nouns and Noun Phrases” or “Linking Language.” See each Language Dive for suggested categories. Color-coding each category for additional support, for example, blue for nouns, pronouns, and subjects; red for predicates and verbs; yellow for adjectives; and green for adverbs, prepositions, and conjunctions. Students can then refer to the wall during subsequent speaking and writing tasks.
+
+Mini Language Dives
+
+Students have an opportunity to participate in Mini Language Dives beginning in Module 2, Unit 1. Mini Language Dives have the same overall purpose and follow the same general process as full Language Dives, but are condensed to 5 minutes, narrowing students’ attention on deconstructing the focus structure, reconstructing the sentence, and practicing the focus structure. Mini Language Dives give ELLs additional support in building language, literacy skills, and habits of mind. Mini Language Dives are most often optional and can be found in the corresponding lessons within this guide. When required for all students, Mini Language Dives are built into the body of the core lessons. In this unit, optional Mini Language Dives appear in Lessons 2, 4, and 12.
+
+Diversity and Inclusion
+
+Investigate the routines, practices, rituals, beliefs, norms, and experiences that are important to ELLs and their families. Integrate this background into the classroom as students engage with texts. Consider the values and narratives embedded in class texts and try to anticipate their relevance to ELLs. Foster inclusive action by creating space for students to express their feelings about sensitive issues or content embedded in the text(s), knowing that these discussions may help create equity, amplify student voices, or unearth trauma. Consult with a guidance counselor, school social worker, or ESL teacher for further investigation of diversity and inclusion.
+
+Varieties of English
+
+Lessons and materials throughout this unit invite students to examine the linguistic choices of key characters from *Two Roads*, especially Cal’s friend, Possum. Throughout the novel, based on whom he is speaking to and/or what he is speaking about, Possum’s language shifts among different varieties of English. For example, the sentence featured in the Lesson 13 Language Dive (“*Library here ain’t worth an owl’s hoot*”), is uttered emphatically by Possum to his friend Cal and thus uses a more familiar variety of English coupled with a unique figurative expression to convey his meaning. In other contexts and for other purposes, Possum uses language varieties that one might expect to encounter, say, during a classroom discussion or in an academic paper (“*. . . I love reading adventure stories—there aren’t many in our library*”). This guide, as well as lesson materials, including Language Dives, aim to help students develop a clearer sense of how their own language can effectively and appropriately change according to audience, purpose, and context, including in the classroom, while also uplifting and celebrating Possum’s nimble use of language in *Two Roads*.
+
+Conversation Cues
+
+Encourage productive and equitable conversation with Conversation Cues, which are questions to ask students that help achieve four goals:
+
+- (Goal 1) encourage all students to talk and be understood;
+
+- (Goal 2) listen carefully to one another and seek to understand;
+
+- (Goal 3) deepen thinking; and
+
+- (Goal 4) think with others to expand the conversation (adapted from Michaels, Sarah, and Cathy O’Connor. *Talk Science Primer*. TERC, 2012. http://inquiryproject.terc.edu/shared/pd/TalkScience_Primer.pdf. Based on Chapin, S., O’Connor, C., and Anderson, N. \[2009\]. *Classroom Discussions: Using Math Talk to Help Students Learn, Grades K–6*. Second Edition. Math Solutions Publications).
+
+Refer to the Tools Page (http://eled.org/tools) for the complete set of cues. Goal 1 Conversation Cues were introduced in Module 1, Unit 1; Goal 2 Conversation Cues were introduced in Module 1, Unit 3; and Goal 3 Conversation Cues were introduced in Module 2, Unit 2. All will continue to be used throughout this module. Goal 4 Conversation Cues are introduced in Lesson 1, and suggestions for integrating Conversation Cues into instruction are presented across lessons. For ELLs, Conversation Cues are especially critical because they improve language processing abilities and increase engagement and participation.
+
+Use Conversation Cues as often as possible to gradually release thinking and expression of ideas to students; avoid using Conversation Cues as a way of searching for the “right” answer. Students often struggle to create productive and equitable conversation during Turn and Talk or Think-Pair-Share protocols; Conversation Cues can make the difference. Recall that the main goals of Conversation Cues are supporting students to express their ideas (Goal 1), listen to other students’ ideas (Goal 2), deepen their own ideas (Goal 3), and build on other students’ ideas (Goal 4).
+
+Consider this model transcription from a classroom where about 85% of students are ELLs. Support students to build their ideas about the choice an author made when writing this sentence about an athlete’s factors for success: *There were many factors that led to Rickey’s success, but it was support from others in baseball that was most important.* Students can carry the Conversation Cues into small groups to support their own independent, productive, and equitable conversations.
+
+Mr. Valencia: What if I replace **but** with **and**? **And** is also a conjunction. How would **and** change the meaning? I’ll give you some time to think. Emma, you want to give it a shot?
+
+Emma: It is adding on to the, like, the idea of the first (part of the) sentence?
+
+Mr. Valencia: Can anyone repeat or rephrase what Emma just said?
+
+Santiago: It would have the same idea as the first two chunks.
+
+Mr. Valencia: Right, **and** would have the same idea as the first two chunks. Two connecting, same ideas. So how does **but** change that for me? Jazmin?
+
+Jazmin: **But** would change it.
+
+Mr. Valencia: Can you say more about that, Jazmin?
+
+Jazmin: It would change it because **but** would say there are many things happening, but this is the one.
+
+Mr. Valencia: So does anyone want to add something else to that?
+
+Daniel: **But** is saying this is the main thing happening.
+
+Mr. Valencia: Right, now the sentence is going to the main factor (for success), or a contrast. **But** is something that is going to tell us a contrast. (Exchange continues.)
+
+Strategic Grouping
+
+Students work in pairs and small groups to complete various tasks throughout the unit. While reading the anchor text in class, students can read independently, in pairs or small groups, or as a full class. In earlier lessons, as students begin the anchor text, match ELLs with a partner who has greater language proficiency. The conversations and reading support that occur as a result of such strategic pairing will greatly serve the language development of both partners. In later lessons, cultivate ELLs’ autonomy and flexibility by encouraging them to vary their reading habits.
+
+Differentiated Materials
+
+Differentiated (▲) materials, including entrance tickets and note-catchers, are available for ELLs and other students who would benefit from an increased level of support. These resources have been modified for the purposes of creating accessibility to content and concepts and supporting language development. Depending upon the task being carried out, images, selected response options, answer banks, sentence frames, or model responses have been embedded to guide students’ thinking without compromising a focus on standards and the skills that students are developing and applying to meet them.
+
+Celebration
+
+Celebrate the courage, enthusiasm, diversity, and bilingual assets that ELLs bring to the classroom. Additionally, students can celebrate their successful attempts at communication and their ability to extend and enhance the discussions.

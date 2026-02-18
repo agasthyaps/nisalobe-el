@@ -1,0 +1,12 @@
+Summarize a Literary Text Rubric
+
+RL.8.2
+
+**Name:** **Date:**
+
+| Advanced                                                                                                                                    | Proficient                                                                             | Developing                                                                                | Beginning                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Clearly introduces the text and wraps up with a concluding statement that restates a central idea or theme of the text                      | Introduces the text with the title and author and wraps up with a concluding statement | Missing an adequate introductory or concluding statement                                  | Missing introductory and concluding statements                                        |
+| Accurately identifies and clearly and concisely explains a central idea or theme in the text                                                | Accurately identifies and briefly explains a central idea or theme in the text         | Central idea or theme of the text is absent or unclear; little or no explanation provided | Central idea or theme is stated or explained in a way that indicates misunderstanding |
+| Uses well-chosen key events and supporting details as well as quotations (where appropriate) to explain a central idea or theme of the text | Uses key events and important details to explain a central idea or theme of the text   | Events and details used may not clearly explain a central idea or theme of the text       | Does not include events and details that explain a central idea or theme of the text  |
+| Concisely conveys only the most important ideas and relevant details                                                                        | Conveys important ideas and details concisely                                          | Includes some unnecessary details                                                         | Includes many unnecessary details and extraneous information                          |

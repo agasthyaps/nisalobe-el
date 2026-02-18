@@ -1,0 +1,66 @@
+Language Dive: Model Argument Essay,  
+Main Claim Note-Catcher
+
+W.7.1a, L.7.1c
+
+(Example for Teacher Reference)
+
+1.  In your groups, discuss ways to rearrange the chunks to make a meaningful sentence.
+
+we can help ensure a future
+
+By inventing and using new materials
+
+that is free of plastic pollution.
+
+and banning plastic as much as possible,
+
+Take turns paraphrasing the chunks in order.
+
+Discuss, sketch, or act out: What is this sentence about?
+
+2.  Consider the focus structure.
+
+By inventing and using new materials
+
+What do you want to discuss about this chunk? Refer to the Questions We Can Ask during a Language Dive anchor chart and Conversation Cues anchor chart for support.
+
+<img src="media/image1.png" style="width:0.27361in;height:0.24792in" alt="6-8-thumbs-up_lores" /> Recommendation: “Can you figure out if the author started this sentence with the preposition **by**?”
+
+Answers will vary.
+
+3.  In the space below, list new materials that can take the place of plastic.
+
+|                        |
+|------------------------|
+| **Answers will vary.** |
+
+4.  Complete the following sentence frames to include the ways you embody a habit of character, adding a modifying phrase starting with the preposition **by** to both the end and the beginning of the sentence.
+
+5.  I can demonstrate **<u>responsibility</u>**
+
+habit of character
+
+> by **<u>taking steps to reduce the use of plastic pollution in my own life</u>**.
+
+verb phrase showing how the habit of character is demonstrated
+
+6.  By **<u>taking steps to reduce the use of plastic pollution in my own life</u>**,
+
+verb phrase showing how the habit of character is demonstrated
+
+I demonstrated **<u>responsibility</u>**.
+
+habit of character
+
+7.  Complete the following frame to write a main claim for your argument essay, that matches the essay objective: “I can write an introduction for my essay giving context on plastic pollution, acknowledging an opposing claim and clearly stating the main claim of the piece.”
+
+The most effective place to reduce plastic pollution is at the **<u>middle</u>** of its
+
+phrase
+
+life cycle. By **<u>limiting the single-use plastic we consume</u>**, we can help ensure
+
+verb phrase
+
+a future that is free of plastic pollution.

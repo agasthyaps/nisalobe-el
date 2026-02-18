@@ -1,0 +1,13 @@
+Homework: Informational Texts and  
+Vocabulary
+
+(Answers for Teacher Reference)
+
+**Directions:** In the chart below, explain each of the vocabulary words from previous lessons in your own words. Provide examples from outside of the text that help your readers understand the meanings of the words.
+
+| Vocabulary Word | Definition in Your Own Words                                                                           | Example                                                                                                                                                                                                                                                                                     |
+|-----------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Folklore        | **Cultural stories passed down from generation to generation that may or may not be true.**            | **Bigfoot is a part of North American folklore. People have claimed to see this hairy giant, but no one knows for sure.**                                                                                                                                                                   |
+| Connotation     | **Meaning that people associate with a word that may be different from the actual meaning of a word.** | **The word “childlike” has a positive connotation. People think of the way a child plays and how a child has an innocent and great imagination. However, the word “childish” has a negative connotation. People think someone is immature like a child and acts younger than they should.** |
+| Empathy         | **Trying to understand how someone else feels.**                                                       | **My little sister can be annoying, but I try to empathize because I was once her age. I understand how it feels to be lonely and not have people your age to play with.**                                                                                                                  |
+| Allusion        | **A reference to a significant moment in history, culture, literature, or politics.**                  | **If you are a person who is grouchy, especially around the holidays, someone may call you a Scrooge. This is from *A Christmas Carol* by Charles Dickens.**                                                                                                                                |

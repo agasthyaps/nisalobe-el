@@ -1,0 +1,75 @@
+*Patient Zero* Lesson 4 Note-Catcher
+
+RI.7.5
+
+**Name:** **Date:**
+
+Complete the chart below, listing the title of the section discussed in class and the gist. Then identify the text structure of that section.
+
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 41%" />
+<col style="width: 40%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Title of Section and Pages</strong></td>
+<td><strong>Gist of Section</strong></td>
+<td><p><strong>Text Structures</strong></p>
+<p>(narration, informational/ explanatory, descriptive, comparison, process, argument)</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Closing and Assessment A: Check for Understanding with Selected Response Questions**
+
+**Directions:** Answer question 1 **OR** 2 (based on which section you analyzed in Work Time B) **AND** question 3.
+
+1.  How does the section “Unequal Treatment” on page 24 develop the ideas in “New Knowledge, but No Cure” on pages 22 and 25?
+
+<!-- -->
+
+1.  by providing more detail about what kinds of treatments were given to different people
+
+2.  by explaining how doctors first discovered the most popular treatments during the time
+
+3.  by offering a history of how the cures doctors offered changed throughout history
+
+4.  by giving examples of the kinds of treatments that people might still make today
+
+**OR**
+
+5.  How does the section “A Perfect Pair: Cities and Disease” on page 29 develop the ideas in “Finding Answers in Hong Kong” on pages 26 and 28?
+
+6.  by providing more details about how plague travels from rats to humans
+
+7.  by showing why Yersin was ultimately proven wrong
+
+8.  by detailing the way that Yersin first discovered the plague bacteria
+
+9.  by showing why people were mistaken about the danger of rats
+
+**AND**
+
+10. What were some of the habits of character or mindsets that allowed Yersin to make the discoveries he did? Explain how the habits of character or mindsets helped Yersin.

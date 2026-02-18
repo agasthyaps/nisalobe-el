@@ -1,0 +1,11 @@
+Entrance Ticket: Unit 3, Lesson 7
+
+W.7.3b
+
+(Answers for Teacher Reference)
+
+**Directions:** As you enter class, answer the following question.
+
+Based on the plot chart you filled out in the previous lesson, what is one event from your story that you would want the reader to pay close attention to?
+
+Responses will vary based on each student’s narrative plan.

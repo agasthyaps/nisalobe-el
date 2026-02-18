@@ -1,0 +1,13 @@
+| ![](media/image1.png) | **End of Unit 1 Assessment:** Summarize an Informational Text Rubric |
+|-----------------------|----------------------------------------------------------------------|
+
+RI.6.1, RI.6.2
+
+(For Teacher Reference)
+
+| Advanced                                                                                                                  | Proficient                                                                                | Developing                                                                                         | Beginning                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Clearly introduces the text and “wraps up” with a concluding statement that restates main idea(s) of the passage.         | Introduces the text with the title and author and “wraps up” with a concluding statement. | Missing an adequate introductory or concluding statement.                                          | Missing introductory and concluding statements.                                            |
+| Accurately identifies and clearly and concisely explains central idea(s)/main idea(s) in the text.                        | Accurately identifies and briefly explains central idea(s)/main idea(s) in the text.      | Central idea(s)/main idea(s) in the text are absent or unclear; little or no explanation provided. | Central idea(s)/main idea(s) stated or explained in a way that indicates misunderstanding. |
+| Uses well-chosen supporting details and quotes (if appropriate) to explain the central idea(s)/ main idea(s) of the text. | Uses important details to explain the central idea(s)/main idea(s) of the text.           | Details used may not clearly explain the central idea(s)/main idea(s) of the text.                 | Does not include details that explain the central idea(s)/main idea(s) of the text.        |
+| Concisely conveys only the most important ideas and relevant details.                                                     | Conveys only important ideas and relevant details.                                        | Includes some unnecessary details.                                                                 | Includes many unnecessary details and explanations.                                        |
