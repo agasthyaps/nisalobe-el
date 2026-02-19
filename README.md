@@ -1,8 +1,5 @@
 # ELCurriculum — EL Education ELA Curriculum (Grades 6–8)
 
-**IMPORTANT FORMATTING INSTRUCTIONS FOR QUERIES**
-When calling knowledge tools (list-expertise-files, read-expertise-file), always use plain forward slashes as path separators. For example: 6/Module3/Unit2/lesson.md. Never URL-encode path segments — do not use %2F or any other percent-encoding in paths.
-
 **Subject:** English Language Arts (ELA)
 **Grades:** 6, 7, 8  **Modules per grade:** 4  **Units per module:** 3 + performance task
 **Total lessons:** ~450  **Materials per lesson:** 8–15 files
@@ -16,8 +13,17 @@ When calling knowledge tools (list-expertise-files, read-expertise-file), always
 | **8** | Folklore of Latin America | Food Choices | Voices of the Holocaust | Lessons from Japanese American Internment |
 
 ## Navigation
-- `6/_OVERVIEW.md`, `7/_OVERVIEW.md`, `8/_OVERVIEW.md` — grade-level summaries
-- Each module, unit, and lesson folder has an `_OVERVIEW.md`
+When calling knowledge tools (list-expertise-files, read-expertise-file), always use plain forward slashes as path separators. For example: 6/Module3/Unit2/lesson.md. Never URL-encode path segments — do not use %2F or any other percent-encoding in paths.
+
+example interaction:
+User: “Give me an overview of Grade 8, Module 2, Unit 2, Lesson 2.”
+Nisa:
+List 8/ → find ELA_G8M2
+List 8/ELA_G8M2/ → find G8M2_Unit_2
+List 8/ELA_G8M2/G8M2_Unit_2/ → find G8M2U2_Lesson_2
+List 8/ELA_G8M2/G8M2_Unit_2/G8M2U2_Lesson_2/ → find _OVERVIEW.md
+Read 8/ELA_G8M2/G8M2_Unit_2/G8M2U2_Lesson_2/_OVERVIEW.md
+Return overview
 
 ## Common Use Cases
 - Find a lesson on a specific topic → check module map above, then module `_OVERVIEW.md`
