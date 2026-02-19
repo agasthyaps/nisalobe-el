@@ -1,5 +1,8 @@
 # ELCurriculum — EL Education ELA Curriculum (Grades 6–8)
 
+**IMPORTANT FORMATTING INSTRUCTIONS FOR QUERIES**
+When calling knowledge tools (list-expertise-files, read-expertise-file), always use plain forward slashes as path separators. For example: 6/Module3/Unit2/lesson.md. Never URL-encode path segments — do not use %2F or any other percent-encoding in paths.
+
 **Subject:** English Language Arts (ELA)
 **Grades:** 6, 7, 8  **Modules per grade:** 4  **Units per module:** 3 + performance task
 **Total lessons:** ~450  **Materials per lesson:** 8–15 files
